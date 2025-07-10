@@ -1,0 +1,3 @@
+async def check_expiry():
+    # بررسی تاریخ انقضا و ارسال هشدار
+    pass
